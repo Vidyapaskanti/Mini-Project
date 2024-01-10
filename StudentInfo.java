@@ -213,7 +213,7 @@ public class StudentInfo {
 		int ss;
 		int ta;
 		
-		Data da[]=new Data[1];
+		Data da[]=new Data[50];
 		float max;
 		Data t;
 		int fees;
